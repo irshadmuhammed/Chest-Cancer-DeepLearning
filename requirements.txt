@@ -16,4 +16,5 @@ types-PyYAML
 scipy
 streamlit
 ipykernel
+dagshub
 -e .
