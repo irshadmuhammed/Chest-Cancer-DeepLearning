@@ -1,7 +1,7 @@
 from ChestCancerDetection import logger
 from ChestCancerDetection.components.model_evaluation import Evaluation
 from ChestCancerDetection.config.configuration import ConfigurationManager
-from ChestCancerDetection.pipeline.satge_1_data_ingestion import DataIngestionTrainingPipeline
+from ChestCancerDetection.pipeline.stage_1_data_ingestion import DataIngestionTrainingPipeline
 from ChestCancerDetection.pipeline.stage_2_prepare_base_model import PrepareBaseModelTrainingPipeline
 from ChestCancerDetection.pipeline.stage_3_train_model import ModelTrainingPipeline
 

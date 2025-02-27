@@ -17,4 +17,5 @@ scipy
 streamlit
 ipykernel
 dagshub
+pillow
 -e .
