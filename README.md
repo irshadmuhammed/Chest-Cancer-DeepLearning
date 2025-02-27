@@ -18,7 +18,7 @@ This project is a deep learning-based Chest Cancer Detection system that takes C
 - **Data Management**: DVC
 
 ## Demo
-![App Screenshot](./sceenshot.png)
+![App Screenshot](./screenshot.png)
 
 ## Installation
 
